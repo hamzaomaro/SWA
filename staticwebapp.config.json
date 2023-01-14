@@ -6,6 +6,10 @@
         }
 
     ],
+    "roles": [
+      "Reader",
+      "Contributor"
+    ],
     
     "auth": {
         "identityProviders": {
