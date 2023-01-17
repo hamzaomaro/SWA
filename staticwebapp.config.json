@@ -21,7 +21,7 @@
                 "clientSecretSettingName": "OPENID_CLIENT_SECRET"
               },
               "openIdConnectConfiguration": {
-                "wellKnownOpenIdConfiguration": "https://login.microsoftonline.com/72f988bf-86f1-41af-91ab-2d7cd011db47/.well-known/openid-configuration"
+                "wellKnownOpenIdConfiguration": "https://login.microsoftonline.com/eb9c2487-63b3-4ff9-b5e4-7cf442418844/.well-known/openid-configuration"
               }
             },
             "login": {
